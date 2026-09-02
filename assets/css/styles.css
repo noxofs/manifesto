@@ -9,12 +9,14 @@ p {
 }
 
 h1 {
-  font-family: "Lilita One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
   color:darkslateblue;
-  font-size: 60px;
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 55px;
 }
+
 
 div {
 	width: 45%;
