@@ -5,8 +5,13 @@ html{
 }
 
 p {
-  color:#590c2d
+  color:#590c2d;
+  font-family: "Iosevka Charon Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
 }
+
 
 h1 {
   color:darkslateblue;
