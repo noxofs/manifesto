@@ -22,6 +22,14 @@ h1 {
   font-size: 55px;
 }
 
+h3 {
+  color:#590c2d;
+  font-family: "Iosevka Charon Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 35px;
+}
+
 
 div {
 	width: 45%;
